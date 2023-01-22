@@ -2,7 +2,6 @@ import React from "react";
 import { useEffect, useState } from "react";
 
 import MainButton from "../UI/Button/MainButton";
-import ExplorePublications from "../components/ExplorePublications";
 
 const Main = (props) => {
     return (
